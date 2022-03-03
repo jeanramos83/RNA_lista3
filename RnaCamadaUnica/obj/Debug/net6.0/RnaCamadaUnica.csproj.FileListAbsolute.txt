@@ -1,0 +1,30 @@
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.exe
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.deps.json
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.runtimeconfig.json
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.dll
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\ref\RnaCamadaUnica.dll
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.pdb
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.csproj.AssemblyReference.cache
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.AssemblyInfoInputs.cache
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.AssemblyInfo.cs
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.csproj.CoreCompileInputs.cache
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.dll
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\ref\RnaCamadaUnica.dll
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.pdb
+E:\Faculdade\2022_1\ia\aula 4\RnaCamadaUnica\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.genruntimeconfig.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.exe
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.deps.json
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.runtimeconfig.json
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.dll
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\bin\Debug\net6.0\RnaCamadaUnica.pdb
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.AssemblyInfo.cs
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.dll
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\refint\RnaCamadaUnica.dll
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.pdb
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\RnaCamadaUnica.genruntimeconfig.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\obj\Debug\net6.0\ref\RnaCamadaUnica.dll

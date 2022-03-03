@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RnaCamadaUnica
+build_property.ProjectDir = C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 7º Período\Inteligência Artificial - Humberto (H1)\2022ia_perceptron-main\RnaCamadaUnica\
